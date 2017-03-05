@@ -1,6 +1,6 @@
 # BlocPong
 
-![BlocPong Screenshot](https://github.com/alpterson24/BlocPong/Blocpong.png "BlocPong screenshot")
+![BlocPong Screenshot](https://github.com/alpterson24/BlocPong/blob/master/Blocpong.png "BlocPong screenshot")
 
 Just a simple game of pong that I created, because I can.
 
