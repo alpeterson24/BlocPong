@@ -2,7 +2,7 @@
 
 ![BlocPong Screenshot](https://github.com/alpeterson24/BlocPong/blob/master/Blocpong.png "BlocPong screenshot")
 
-Just a simple game of pong that I created, because I can.
+Just a simple game of pong that I created with Javascript on HTML5 canvas, because I can.
 
 Make sure your browser supports HTML5.
 
